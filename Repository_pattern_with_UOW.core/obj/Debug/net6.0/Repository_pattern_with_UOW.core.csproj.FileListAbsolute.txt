@@ -1,0 +1,12 @@
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\bin\Debug\net6.0\Repository_pattern_with_UOW.core.deps.json
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\bin\Debug\net6.0\Repository_pattern_with_UOW.core.dll
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\bin\Debug\net6.0\Repository_pattern_with_UOW.core.pdb
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.csproj.AssemblyReference.cache
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.AssemblyInfoInputs.cache
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.AssemblyInfo.cs
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.csproj.CoreCompileInputs.cache
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.dll
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\refint\Repository_pattern_with_UOW.core.dll
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\Repository_pattern_with_UOW.core.pdb
+D:\RABBITMQ_TOPICEXCHANGE\Repository_pattern_with_UOW\Repository_pattern_with_UOW.core\obj\Debug\net6.0\ref\Repository_pattern_with_UOW.core.dll
